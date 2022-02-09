@@ -21,6 +21,6 @@ c = conn.cursor()
 # 		)""")
 # conn.commit()		
 
-c.execute(""" insert into addresses values ('john123','john123','john134','john','john','1234')
+c.execute(""" insert into addresses values ('narendra','medisetti','john134','john','john','1234')
 		""")
 conn.commit()			
